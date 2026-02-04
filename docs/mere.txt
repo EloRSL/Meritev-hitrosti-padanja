@@ -1,0 +1,7 @@
+Legenda tabele:
+| Točka merjenja | Začetna višina (m) | Izmerjen cas padanja Δt (s) | Celotni čas padanja (s) |
+
+Meritve:
+| Prva točka | 0.503 | 0.20 | 0.32 |
+| Druga točka | 0.640 | 0.15 | 0.35 |
+| Tretja točka | 1.080 | 0.10 | 0.46 |
